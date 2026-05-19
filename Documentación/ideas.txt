@@ -1,1 +1,13 @@
+ideas.txt
+==========
+- Idea principal: 
+- Funcionalidades extra: 
+- Posible tecnología: 
 
+Ventajas:
+-
+-
+
+Posibles mejoras:
+-
+-
