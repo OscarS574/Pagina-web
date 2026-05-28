@@ -4,15 +4,15 @@
 
 ## Objetivo
 
-Desarrollar una plataforma web innovadora llamada HeroVision, enfocada en la identificación de superhéroes mediante inteligencia artificial y análisis avanzado de imágenes, utilizando tecnologías modernas de desarrollo web y un flujo de trabajo profesional en GitHub para garantizar escalabilidad, organización y colaboración eficiente.
+Desarrollar una aplicación web interactiva enfocada en la búsqueda, organización y visualización de información sobre superhéroes de Marvel y DC, utilizando una interfaz moderna y tecnologías web actuales como React y TypeScript.
 
 ## Problema que resuelve
 
-HeroVision resuelve la necesidad de los aficionados a los superhéroes de identificar rápida y fácilmente personajes con habilidades especiales a partir de imágenes, eliminando la incertidumbre al no reconocer un héroe o villano. A través de visión computacional y modelos de IA, la plataforma ofrece una solución precisa, entretenida y educativa.
+Ofrecer una plataforma moderna y organizada que permita visualizar información de personajes de Marvel y DC de manera interactiva, rápida y atractiva. ya que muchas  páginas presentan información desordenada, interfaces antiguas o poca experiencia visual para los usuarios.
 
 ## Público objetivo
 
-Aficionados a superhéroes de todas las edades, coleccionistas, fans del cine y cómics, así como curiosos que deseen explorar el mundo de los superhéroes mediante tecnología de vanguardia.
+El proyecto está dirigido principalmente a fanáticos de Marvel y DC, personas interesadas en superhéroes, cultura geek y tecnología interactiva
 
 ## Integrantes y roles
 
