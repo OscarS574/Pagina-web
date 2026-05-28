@@ -11,7 +11,7 @@ Desarrollar una plataforma web llamada HeroVision que permita identificar superh
 - Modo educativo con datos curiosos del personaje identificado
 
 - Posible tecnología: 
-HTML5, , JavaScript, Python (backend con Flask o FastAPI), TensorFlow o PyTorch para modelos de IA, OpenCV para visión computacional, GitHub para control de versiones y colaboración profesional.
+HTML5, JavaScript, Python (backend con Flask o FastAPI), TensorFlow o PyTorch para modelos de IA, OpenCV para visión computacional, GitHub para control de versiones y colaboración profesional.
 
 Ventajas:
 - Identificación rápida y precisa de superhéroes mediante machine learning
