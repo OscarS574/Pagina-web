@@ -1,6 +1,6 @@
 # HeroVision
 
-Grupo 2
+## Grupo 2
 
 ## Objetivo
 
@@ -12,7 +12,7 @@ HeroVision resuelve la necesidad de los aficionados a los superhéroes de identi
 
 ## Público objetivo
 
-Aficionados a superhéroes de todas las edades, coleccionistas, fans del cine y cómics, así como curiosos que deseen explorar el mundo de los superhéroes.
+Aficionados a superhéroes de todas las edades, coleccionistas, fans del cine y cómics, así como curiosos que deseen explorar el mundo de los superhéroes mediante tecnología de vanguardia.
 
 ## Integrantes y roles
 
