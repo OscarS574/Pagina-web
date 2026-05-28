@@ -1,13 +1,27 @@
 ideas.txt
 ==========
 - Idea principal: 
+Desarrollar una plataforma web llamada HeroVision que permita identificar superhéroes a partir de imágenes subidas por el usuario, utilizando inteligencia artificial, visión computacional y reconocimiento visual.
+
 - Funcionalidades extra: 
+- Interfaz futurista y cinematográfica
+- Análisis y clasificación de personajes con habilidades especiales
+- Detección automática de múltiples héroes en una misma imagen
+- Historial de búsquedas para el usuario
+- Modo educativo con datos curiosos del personaje identificado
+
 - Posible tecnología: 
+HTML5, , JavaScript, Python (backend con Flask o FastAPI), TensorFlow o PyTorch para modelos de IA, OpenCV para visión computacional, GitHub para control de versiones y colaboración profesional.
 
 Ventajas:
--
--
+- Identificación rápida y precisa de superhéroes mediante machine learning
+- Experiencia inmersiva con diseño cinematográfico
+- Escalabilidad gracias al flujo de trabajo profesional en GitHub
+- Fomenta el aprendizaje sobre personajes de cómics y películas
 
 Posibles mejoras:
--
--
+- Integración con base de datos de superhéroes actualizada en tiempo real
+- Soporte para video o cámara en vivo
+- Sistema de recomendación de contenido similar (películas, cómics)
+- Modo multijugador o desafíos semanales entre usuarios
+- API pública para que otros desarrolladores integren HeroVision
